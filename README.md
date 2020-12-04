@@ -7,7 +7,7 @@ Download: [Releases](https://github.com/TOLoneWolf/curse-to-gdl-converter-python
 
 
 
-
+gdl's instance folder needs to be lower case "instances" and not "Instances" to be detected with version 0.1.0.
 
 
 example paths:
