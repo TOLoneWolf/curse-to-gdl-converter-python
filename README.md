@@ -13,7 +13,7 @@ gdl's instance folder needs to be lower case "instances" and not "Instances" to 
 example paths:
 
 `C:\Users\<User>\AppData\Roaming\gdlauncher_next\instances`  
-`D:\gdl\Instances`  
+`D:\gdl\instances`  
 
 `D:\TwitchMinecraft\Instances`  
 `C:\Users\<User>\Documents\curseforge\minecraft\Instances`  
