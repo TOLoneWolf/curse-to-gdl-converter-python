@@ -7,10 +7,11 @@ Download: [Releases](https://github.com/TOLoneWolf/curse-to-gdl-converter-python
 
 
 
-gdl's instance folder needs to be lower case "instances" and not "Instances" to be detected with version 0.1.0.
+gdl's instance folder needs to be lower case "instances" and not "Instances" to be detected with version 0.1.0.  
+curseforge apps is upper case "Instances"  
 
 
-example paths:
+example paths:  
 
 `C:\Users\<User>\AppData\Roaming\gdlauncher_next\instances`  
 `D:\gdl\instances`  
